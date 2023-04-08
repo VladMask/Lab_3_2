@@ -1,0 +1,43 @@
+Programmer:  Bill McQuain
+CS 1044 Project 6 Fall 2009
+--------------------------------------------------------------------
+Sorting by name
+--------------------------------------------------------------------
+Looking for city named:   Freeport
+ 10:  Freeport                      Maine                     1829
+--------------------------------------------------------------------
+Looking for city named:   Sturgis
+ 26:  Sturgis                       South Dakota              5330
+--------------------------------------------------------------------
+Looking for city named:   Union
+ 28:  Union                         Oregon                    1847
+--------------------------------------------------------------------
+Looking for city named:   Menomenee Falls
+ 18:  Menomenee Falls               Wisconsin                26840
+--------------------------------------------------------------------
+Looking for city named:   Junior
+ 12:  Junior                        West Virginia               34
+--------------------------------------------------------------------
+Sorting by population
+--------------------------------------------------------------------
+Looking for cities in:   Arkansas
+ 23:  Conway                        Arkansas                 26481
+ 25:  West Memphis                  Arkansas                 28259
+ 29:  Little Rock                   Arkansas                175795
+--------------------------------------------------------------------
+Updating population for:   Junior
+  1:  Junior                        West Virginia               83
+--------------------------------------------------------------------
+Updating population for:   Buffalo
+  6:  Buffalo                       South Dakota               564
+--------------------------------------------------------------------
+Looking for populations between 100 and 500:
+  3:  Clear Brook                   Virginia                   150
+  4:  Ten Sleep                     Wyoming                    311
+  5:  Clearbrook                    Virginia                   400
+--------------------------------------------------------------------
+Looking for city named:   Jackson Hole
+Jackson Hole not found
+--------------------------------------------------------------------
+Exit command found
+--------------------------------------------------------------------

@@ -1,0 +1,40 @@
+Programmer:  Bill McQuain
+CS 1044 Project 6 Fall 2009
+--------------------------------------------------------------------
+Sorting by name
+--------------------------------------------------------------------
+Looking for city named:   Carlsbad
+  2:  Carlsbad                      New Mexico               24952
+--------------------------------------------------------------------
+Looking for city named:   Freeport
+ 10:  Freeport                      Maine                     1829
+--------------------------------------------------------------------
+Looking for city named:   Kiowa
+ 18:  Kiowa                         Oklahoma                   718
+--------------------------------------------------------------------
+Looking for city named:   Chamberlain
+  3:  Chamberlain                   South Dakota              2347
+--------------------------------------------------------------------
+Looking for city named:   Ed
+  9:  Ed                            West Virginia                7
+--------------------------------------------------------------------
+Sorting by population
+--------------------------------------------------------------------
+Looking for cities in:   New Mexico
+  6:  La Luz                        New Mexico                1625
+ 21:  Carlsbad                      New Mexico               24952
+--------------------------------------------------------------------
+Updating population for:   Ed
+  0:  Ed                            West Virginia               12
+--------------------------------------------------------------------
+Updating population for:   Clearbrook
+  3:  Clearbrook                    Virginia                   562
+--------------------------------------------------------------------
+Looking for populations between 100 and 500:
+  2:  Green Bank                    West Virginia              392
+--------------------------------------------------------------------
+Looking for city named:   Cherokee
+Cherokee not found
+--------------------------------------------------------------------
+Exit command found
+--------------------------------------------------------------------

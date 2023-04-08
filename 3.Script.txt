@@ -1,0 +1,13 @@
+sort	name
+city	Carlsbad
+city	Freeport
+city	Kiowa
+city	Chamberlain
+city	Ed
+sort	population
+state	New Mexico
+update	Ed	12
+update	Clearbrook	562
+range	100	500
+city	Cherokee
+exit	

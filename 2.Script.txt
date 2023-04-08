@@ -1,0 +1,13 @@
+sort	name
+city	Lafayette
+city	Buffalo
+city	Laconia
+city	Clarksville
+city	Wimer
+sort	population
+state	Louisiana
+update	Wimer	81
+update	Buffalo	570
+range	100	500
+city	Providence
+exit	

@@ -1,0 +1,30 @@
+Carlsbad	New Mexico	24952
+Richmond	Utah	1955
+Ed	West Virginia	7
+Chamberlain	South Dakota	2347
+Gadsden	Alabama	42523
+Delta	Utah	2998
+Cortez	Colorado	7284
+Knoxville	Tennessee	165121
+Indiana	Pennsylvania	15174
+Rifle	Colorado	4636
+Junior	West Virginia	34
+Bowling Green	Virginia	727
+Jackson	Tennessee	48949
+Jackson Hole	Wyoming	4472
+La Luz	New Mexico	1625
+Oakland	Maryland	2078
+Red Lodge	Montana	1958
+Pecos	Texas	12069
+Green Bank	West Virginia	392
+Shelbyville	Indiana	15336
+La Crosse	Wisconsin	51003
+West Memphis	Arkansas	28259
+Bozeman	Montana	22660
+Union	Oregon	1847
+Kiowa	Oklahoma	718
+Grand Junction	Colorado	29034
+Clarksville	Tennessee	75494
+Conway	Arkansas	26481
+Clearbrook	Virginia	400
+Freeport	Maine	1829

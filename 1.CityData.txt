@@ -1,0 +1,32 @@
+Freeport	Maine	1829
+Union	Oregon	1847
+Menomenee Falls	Wisconsin	26840
+West Memphis	Arkansas	28259
+Oyster Bay	New York	2109
+Bozeman	Montana	22660
+Providence	Rhode Island	160728
+Nags Head	North Carolina	1838
+Laconia	New Hampshire	15743
+Ed	West Virginia	7
+Clearbrook	Virginia	400
+Baton Rouge	Louisiana	219531
+Lafayette	Louisiana	94440
+Junior	West Virginia	34
+Carlsbad	New Mexico	24952
+Knoxville	Tennessee	165121
+Richmond	Utah	1955
+Cherokee	North Carolina	20170
+Portage Des Sioux	Missouri	503
+La Luz	New Mexico	1625
+Bowling Green	Virginia	727
+Rifle	Colorado	4636
+Conway	Arkansas	26481
+Ten Sleep	Wyoming	311
+Oakland	Maryland	2078
+Little Rock	Arkansas	175795
+Greensboro	North Carolina	183521
+Clear Brook	Virginia	150
+Wimer	West Virginia	47
+Buffalo	South Dakota	488
+Vernal	Utah	6644
+Sturgis	South Dakota	5330

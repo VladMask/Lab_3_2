@@ -1,0 +1,41 @@
+Programmer:  Bill McQuain
+CS 1044 Project 6 Fall 2009
+--------------------------------------------------------------------
+Sorting by name
+--------------------------------------------------------------------
+Looking for city named:   Lafayette
+ 17:  Lafayette                     Louisiana                94440
+--------------------------------------------------------------------
+Looking for city named:   Buffalo
+  3:  Buffalo                       South Dakota               488
+--------------------------------------------------------------------
+Looking for city named:   Laconia
+ 16:  Laconia                       New Hampshire            15743
+--------------------------------------------------------------------
+Looking for city named:   Clarksville
+  6:  Clarksville                   Tennessee                75494
+--------------------------------------------------------------------
+Looking for city named:   Wimer
+ 26:  Wimer                         West Virginia               47
+--------------------------------------------------------------------
+Sorting by population
+--------------------------------------------------------------------
+Looking for cities in:   Louisiana
+ 25:  Lafayette                     Louisiana                94440
+ 26:  Baton Rouge                   Louisiana               219531
+--------------------------------------------------------------------
+Updating population for:   Wimer
+  2:  Wimer                         West Virginia               81
+--------------------------------------------------------------------
+Updating population for:   Buffalo
+  5:  Buffalo                       South Dakota               570
+--------------------------------------------------------------------
+Looking for populations between 100 and 500:
+  3:  Clear Brook                   Virginia                   150
+  4:  Ten Sleep                     Wyoming                    311
+--------------------------------------------------------------------
+Looking for city named:   Providence
+Providence not found
+--------------------------------------------------------------------
+Exit command found
+--------------------------------------------------------------------

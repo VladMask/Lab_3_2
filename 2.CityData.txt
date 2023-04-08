@@ -1,0 +1,27 @@
+Lafayette	Louisiana	94440
+Laconia	New Hampshire	15743
+Sturgis	South Dakota	5330
+Clarksville	Tennessee	75494
+Chamberlain	South Dakota	2347
+Gadsden	Alabama	42523
+Bozeman	Montana	22660
+Kiowa	Oklahoma	718
+Pecos	Texas	12069
+Menomenee Falls	Wisconsin	26840
+Carlsbad	New Mexico	24952
+Cortez	Colorado	7284
+Indiana	Pennsylvania	15174
+Clear Brook	Virginia	150
+Billings	Montana	81151
+Wimer	West Virginia	47
+Shelbyville	Indiana	15336
+Baton Rouge	Louisiana	219531
+Jackson	Tennessee	48949
+Grand Junction	Colorado	29034
+Ten Sleep	Wyoming	311
+Ed	West Virginia	7
+Union	Oregon	1847
+Junior	West Virginia	34
+Rifle	Colorado	4636
+West Memphis	Arkansas	28259
+Buffalo	South Dakota	488

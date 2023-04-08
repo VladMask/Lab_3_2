@@ -1,0 +1,13 @@
+sort	name
+city	Freeport
+city	Sturgis
+city	Union
+city	Menomenee Falls
+city	Junior
+sort	population
+state	Arkansas
+update	Junior	83
+update	Buffalo	564
+range	100	500
+city	Jackson Hole
+exit	
